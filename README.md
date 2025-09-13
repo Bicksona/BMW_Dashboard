@@ -41,7 +41,7 @@ The dashboard is designed to provide clear and data-driven insights into BMW’s
 ![BMW Car Sales Dashboard](./Report.png)
 
 ### 📍 Model-Level Report
-![BMW Car Model Report](./All Model.png)
+![BMW Car Model Report](./All Models.png)
 
 ---
 
